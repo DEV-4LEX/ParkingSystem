@@ -78,5 +78,24 @@ Automatizar e modernizar o controle de acesso, aumentando a segurança e reduzin
 
 ## Status do Projeto
 
+### Implementado nesta entrega
+
+- Estrutura baseada em Clean Architecture
+- API ASP.NET Core
+- Integração com PostgreSQL
+- Entity Framework Core
+- Cadastro de usuários
+- Cadastro de veículos
+- Geração de QR Code
+- Geração de JWT
+- Validação de QR Code
+- Registro de acessos
+
 Em desenvolvimento.
 Primeira entrega contendo estrutura arquitetural, autenticação via JWT, geração de QR Code, cadastro de usuários, cadastro de veículos e registro de acessos.
+
+- Reconhecimento facial
+- Dashboard administrativo
+- Leitura de placas veiculares
+- Aplicação PWA
+- Relatórios avançados
